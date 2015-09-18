@@ -12,7 +12,7 @@ class Sudoku
 
 
   def board
-    @board
+    @brd
   end
 
   # Returns a string representing the current state of the board
